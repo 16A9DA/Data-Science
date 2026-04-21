@@ -4,7 +4,6 @@
 ## About This Repository
 This repository is a **growing data science portfolio** where I apply **Pandas** and **NumPy** to real-world datasets.
 
-Rather than focusing only on theory, I emphasize **practical implementation**, exploring datasets, cleaning data, and extracting meaningful insights.
 ---
 ##  Key Highlights
 - Hands-on data analysis using real datasets  
