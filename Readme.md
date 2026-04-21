@@ -1,7 +1,7 @@
 # 📊 Data Science Journey
 ### Pandas · NumPy · Real-World Datasets
 
-> A hands-on, continuously growing repository where I learn and apply data science concepts using real datasets — from fundamentals to full projects.
+> A hands-on, continuously growing repository where I learn and apply data science concepts using real datasets from fundamentals to full projects.
 
 ---
 
