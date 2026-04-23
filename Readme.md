@@ -18,7 +18,8 @@ Data Science/
 │
 ├── Basics/                        # Core concepts, learned hands-on with real data
 │   ├── StudentsPerformance.csv    # Dataset used across basics
-│   ├── CreateDataFrame.ipynb      # Building & structuring DataFrames
+│   ├── CreateDataFrame.ipynb      # Building & structuring DataFrames using Numpy and Pandas
+│   ├── DataInDict.ipynb           # Adding multiple dataframes to dict for better & easy access
 │   ├── Index.ipynb                # Indexing
 │   ├── Operations.ipynb           # Arithmetic & logical operations
 │   ├── AttrMethFunc.ipynb         # Attributes, methods & functions
@@ -27,7 +28,7 @@ Data Science/
 │   └── ValueCount.ipynb           # Frequency analysis
 │
 └── Projects/                      # Applied projects on real datasets
-    └── WebScraping.ipynb          # Scraping & processing live data
+    └── WebScraping.ipynb          # Scraping multiple dataset[football(season and leagues)] from web using URL patterns & loops
 ```
 
 ---
