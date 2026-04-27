@@ -15,12 +15,15 @@ I'm actively learning **Data Science** with a focus on practical, real-world app
 Data Science/
 │
 ├── Basics/                        # Core concepts, learned hands-on with real data
-│   ├── StudentsPerformance.csv    # Dataset used across basics
+│   ├── StudentsPerformance.csv    # Dataset Student performace
+│   ├── laptop_price.csv           # Dataset laptop information and prices
+│   |── AttrMethFunc.ipynb         # Attributes, methods & functions
 │   ├── CreateDataFrame.ipynb      # Building & structuring DataFrames using Numpy and Pandas
+│   ├── ColBasedCondition.ipynb    # Column based filtering using conditon, using numpy and editing dataframe
 │   ├── DataInDict.ipynb           # Adding multiple dataframes to dict for better & easy access
+│   ├── FilteringDataMethods.ipynb # Filtering data using only pandas methods
 │   ├── Index.ipynb                # Indexing
 │   ├── Operations.ipynb           # Arithmetic & logical operations
-│   ├── AttrMethFunc.ipynb         # Attributes, methods & functions
 │   ├── Rename.ipynb               # Renaming columns & indexes
 │   ├── SortValues.ipynb           # Sorting data
 │   └── ValueCount.ipynb           # Frequency analysis
