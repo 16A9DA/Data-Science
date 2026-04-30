@@ -19,7 +19,7 @@ Data Science/
 │   ├── laptop_price.csv           # Dataset laptop information and prices
 │   |── AttrMethFunc.ipynb         # Attributes, methods & functions
 │   ├── CreateDataFrame.ipynb      # Building & structuring DataFrames using Numpy and Pandas
-│   ├── ColBasedCondition.ipynb    # Column based filtering using conditon, using numpy and editing dataframe
+│   ├── ColBasedCondition.ipynb    # Column based filtering using conditon / creating codititional columns, using numpy select/where function
 │   ├── DataInDict.ipynb           # Adding multiple dataframes to dict for better & easy access
 │   ├── FilteringDataMethods.ipynb # Filtering data using only pandas methods
 │   ├── Index.ipynb                # Indexing
