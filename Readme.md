@@ -21,8 +21,10 @@ Data Science/
 │   ├── CreateDataFrame.ipynb      # Building & structuring DataFrames using Numpy and Pandas
 │   ├── ColBasedCondition.ipynb    # Column based filtering using conditon / creating codititional columns, using numpy select/where function
 │   ├── DataInDict.ipynb           # Adding multiple dataframes to dict for better & easy access
+│   ├── Duplicate.ipynb           # Mutiple methods to manipluate data using duplicated function
 │   ├── FilteringDataMethods.ipynb # Filtering data using only pandas methods
 │   ├── Index.ipynb                # Indexing
+│   ├──  isin.ipynb                # using isin function to analayes data with conditons/values
 │   ├── Operations.ipynb           # Arithmetic & logical operations
 │   ├── Rename.ipynb               # Renaming columns & indexes
 │   ├── SortValues.ipynb           # Sorting data
