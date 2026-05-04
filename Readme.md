@@ -15,17 +15,20 @@ I'm actively learning **Data Science** with a focus on practical, real-world app
 Data Science/
 │
 ├── Basics/                        # Core concepts, learned hands-on with real data
+│   ├── players_20.csv             # Football player Dataset
 │   ├── StudentsPerformance.csv    # Dataset Student performace
 │   ├── laptop_price.csv           # Dataset laptop information and prices
 │   |── AttrMethFunc.ipynb         # Attributes, methods & functions
 │   ├── CreateDataFrame.ipynb      # Building & structuring DataFrames using Numpy and Pandas
 │   ├── ColBasedCondition.ipynb    # Column based filtering using conditon / creating codititional columns, using numpy select/where function
 │   ├── DataInDict.ipynb           # Adding multiple dataframes to dict for better & easy access
-│   ├── Duplicate.ipynb           # Mutiple methods to manipluate data using duplicated/drop_duplicate function
+│   ├── Duplicate.ipynb            # Mutiple methods to manipluate data using duplicated/drop_duplicate function
+│   ├── Extraction.ipynb           # Extractig data and manipluate using loc and iloc
 │   ├── FilteringDataMethods.ipynb # Filtering data using only pandas methods
 │   ├── Index.ipynb                # Indexing
-│   ├──  isin.ipynb                # using isin function to analayes data with conditons/values
+│   ├── isin.ipynb                 # using isin function to analayes data with conditons/values
 │   ├── Operations.ipynb           # Arithmetic & logical operations
+│   ├── Queries.ipynb              # Using query fucntion and dtype to fetch and change data type
 │   ├── Rename.ipynb               # Renaming columns & indexes
 │   ├── SortValues.ipynb           # Sorting data
 │   └── ValueCount.ipynb           # Frequency analysis
